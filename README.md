@@ -4,3 +4,4 @@
 - [The code for AGI will be simple | John Carmack and Lex Fridman](https://youtu.be/xLi83prR5fg)
 - [John Carmack on John Romero | Lex Fridman Podcast Clips](https://youtu.be/_D5cwq4HVXc)
 - [How to be a great programmer | John Carmack and Lex Fridman](https://youtu.be/xzPuGf89vpI)
+- [Day in the life of John Carmack](https://youtu.be/Cj1q7arJATM)
